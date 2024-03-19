@@ -1,4 +1,5 @@
 node_modules/
+Assets/
 .DS_Store/
+.vscode/
 .env
-/dist
